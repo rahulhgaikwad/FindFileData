@@ -3,5 +3,5 @@ This project is all about reading data from file and finding a required string f
 
 * To compile type make
 
-*Data.txt contains sample record
+* Data.txt contains sample record
 
